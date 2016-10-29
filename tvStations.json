@@ -1,165 +1,322 @@
 {
-  "German": [
-    {
-      "hlsURL": "http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/N24_logo.svg/640px-N24_logo.svg.png",
-      "name": "N24"
-    },
-    {
-      "hlsURL": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ARD_logo.svg/640px-ARD_logo.svg.png",
-      "name": "ARD"
-    },
-    {
-      "hlsURL": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png",
-      "name": "tagesschau24"
-    },
-    {
-      "hlsURL": "http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ZDF.svg/640px-ZDF.svg.png",
-      "name": "ZDF"
-    },
-    {
-      "hlsURL": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/640px-3sat-Logo.svg.png",
-      "name": "3sat"
-    },
-    {
-      "hlsURL": "http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/640px-Arte_Logo_2011.svg.png",
-      "name": "Arte"
-    },
-    {
-      "hlsURL": "http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png",
-      "name": "KiKa"
-    },
-    {
-      "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zdf.kultur_logo.svg/640px-Zdf.kultur_logo.svg.png",
-      "name": "ZDF.kultur"
-    },
-    {
-      "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png",
-      "name": "ZDF.info"
-    },
-    {
-      "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/640px-ZDFneo.svg.png",
-      "name": "ZDF neo"
-    },
-    {
-      "hlsURL": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png",
-      "name": "BR alpha"
-    },
-    {
-      "hlsURL": "http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MDR_Dachmarke.svg/640px-MDR_Dachmarke.svg.png",
-      "name": "MDR"
-    },
-    {
-      "hlsURL": "http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RBB_Dachmarke.svg/640px-RBB_Dachmarke.svg.png",
-      "name": "RBB Berlin"
-    },
-    {
-      "hlsURL": "http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RBB_Dachmarke.svg/640px-RBB_Dachmarke.svg.png",
-      "name": "RBB Brandenburg"
-    },
-    {
-      "hlsURL": "http://video1.anixehd.tv:8080/Apple/wifistream.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Anixe.svg/640px-Anixe.svg.png",
-      "name": "ANIXE"
-    },
-    {
-    "hlsURL": "http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frf_logo_2012.png",
-    "name": "Friesischer-Rundfunk"
-    }
-  ],
-  "Viet Nam": [
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/JW8VXef.png",
-      "name": "VTV1"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/spL8IHO.png",
-      "name": "VTV3"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/RwwN9B3.png",
-      "name": "VTV2"
-    },
-    {
-      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
-      "imageURL": "http://i.imgur.com/spL8IHO.png",
-      "name": "VTV3"
-    }
-  ],
-  "Austria": [
-    {
-      "hlsURL": "http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/640px-ORFeins.svg.png",
-      "name": "ORF 1"
-    },
-    {
-      "hlsURL": "http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/640px-ORF2_logo_n.svg.png",
-      "name": "ORF 2"
-    },
-    {
-      "hlsURL": "http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/640px-ORF_III_Logo_Monochrom.svg.png",
-      "name": "ORF 3"
-    }
-  ],
-  "USA": [
-    {
-      "hlsURL": "http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/de/thumb/1/12/National_Football_League_2008.svg/456px-National_Football_League_2008.svg.png",
-      "name": "NFL"
-    },
-    {
-      "hlsURL": "http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/de/thumb/2/2b/CARTOON_NETWORK_logo2010.svg/640px-CARTOON_NETWORK_logo2010.svg.png",
-      "name": "Cartoon Network"
-    }
-  ]
+    "German": [
+               {
+               "hlsURL": "http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/N24_logo.svg/640px-N24_logo.svg.png",
+               "name": "N24"
+               },
+               {
+               "hlsURL": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ARD_logo.svg/640px-ARD_logo.svg.png",
+               "name": "ARD"
+               },
+               {
+               "hlsURL": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png",
+               "name": "tagesschau24"
+               },
+               {
+               "hlsURL": "http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ZDF.svg/640px-ZDF.svg.png",
+               "name": "ZDF"
+               },
+               {
+               "hlsURL": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/640px-3sat-Logo.svg.png",
+               "name": "3sat"
+               },
+               {
+               "hlsURL": "http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/640px-Arte_Logo_2011.svg.png",
+               "name": "Arte"
+               },
+               {
+               "hlsURL": "http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png",
+               "name": "KiKa"
+               },
+               {
+               "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zdf.kultur_logo.svg/640px-Zdf.kultur_logo.svg.png",
+               "name": "ZDF.kultur"
+               },
+               {
+               "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png",
+               "name": "ZDF.info"
+               },
+               {
+               "hlsURL": "http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/640px-ZDFneo.svg.png",
+               "name": "ZDF neo"
+               },
+               {
+               "hlsURL": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png",
+               "name": "BR alpha"
+               },
+               {
+               "hlsURL": "http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MDR_Dachmarke.svg/640px-MDR_Dachmarke.svg.png",
+               "name": "MDR"
+               },
+               {
+               "hlsURL": "http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RBB_Dachmarke.svg/640px-RBB_Dachmarke.svg.png",
+               "name": "RBB Berlin"
+               },
+               {
+               "hlsURL": "http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RBB_Dachmarke.svg/640px-RBB_Dachmarke.svg.png",
+               "name": "RBB Brandenburg"
+               },
+               {
+               "hlsURL": "http://video1.anixehd.tv:8080/Apple/wifistream.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Anixe.svg/640px-Anixe.svg.png",
+               "name": "ANIXE"
+               },
+               {
+               "hlsURL": "http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8",
+               "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frf_logo_2012.png",
+               "name": "Friesischer-Rundfunk"
+               }
+               ],
+    "Viet Nam": [
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/JW8VXef.png",
+                 "name": "VTV1"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/RwwN9B3.png",
+                 "name": "VTV2"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/spL8IHO.png",
+                 "name": "VTV3"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.720p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/OwtIFz1.png",
+                 "name": "VTV3 HD"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8",
+                 "imageURL": "http://i.imgur.com/QwsdDjH.png",
+                 "name": "VTV4"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8",
+                 "imageURL": "http://i.imgur.com/bdKkIw2.png",
+                 "name": "VTV5"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/keIENsc.png",
+                 "name": "VTV6"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.720p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/kplGmyh.png",
+                 "name": "VTV6 HD"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv9.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/qCWsfhc.png",
+                 "name": "VTV9"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc1.1080p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/HC5iUuK.png",
+                 "name": "VTC1 HD"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8",
+                 "imageURL": "http://i.imgur.com/2MwvQXo.png",
+                 "name": "VTC2"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/CsXS6ve.png",
+                 "name": "VTC3 HD"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc4.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/fitz1bW.png",
+                 "name": "VTC4"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8",
+                 "imageURL": "http://i.imgur.com/3QYpmSw.png",
+                 "name": "VTC5"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8",
+                 "imageURL": "http://i.imgur.com/xXeBAok.png",
+                 "name": "VTC6"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc7.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/ZfjtPa2.png",
+                 "name": "VTC7 - TodayTV"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc8.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/uPxgmeN.png",
+                 "name": "VTC8 - ViewTV"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc9.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/5SoblfV.png",
+                 "name": "VTC9"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc10.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/5GpXF4g.png",
+                 "name": "VTC10"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/Vg5XFcf.png",
+                 "name": "VTC11"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8",
+                 "imageURL": "http://i.imgur.com/aKmAf9Z.png",
+                 "name": "VTC12"
+                 },
+                 {
+                 "hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8",
+                 "imageURL": "http://i.imgur.com/ZIRi8xh.png",
+                 "name": "VTC13"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc14.1080p.stream/chunklist.m3u8",
+                 "imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",
+                 "name": "VTC14 HD"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc16.480p.stream/chunklist.m3u8",
+                 "imageURL": "http://i.imgur.com/aJyUj9n.png",
+                 "name": "VTC16"
+                 }
+                ],
+    "HTV": [
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/XWtxYdm.png",
+            "name": "HTV1"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv2.720p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/SwNJVBc.png",
+            "name": "HTV2 HD"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv3.360p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/MMQITB4.png",
+            "name": "HTV3"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/gkeMaOh.png",
+            "name": "HTV4"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/m603PX8.png",
+            "name": "HTV7 HD"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/DUhJcZK.png",
+            "name": "HTV9 HD"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8",
+            "imageURL": "https://s17.postimg.org/ijgazsru7/HTVC_PHIM_HD.png",
+            "name": "HTVC phim HD"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/thuan_viet.720p.stream/chunklist.m3u8",
+            "imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_145578232318.png",
+            "name": "HTVC Thuan Viet HD"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/du_lich.360p.stream/chunklist.m3u8",
+            "imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_145578790177.png",
+            "name": "HTVC dulich"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/gia_dinh.360p.stream/chunklist.m3u8",
+            "imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_14557859914.png",
+            "name": "HTVC giadinh"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/phu_nu.360p.stream/chunklist.m3u8",
+            "imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_145672974528.jpg",
+            "name": "HTVC phunu"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_music.360p.stream/chunklist.m3u8",
+            "imageURL": "http://htvc.vn/uploads/editor/images/Logo Kenh/logoCanhac_422x278.png",
+            "name": "HTVC canhac"
+            },
+            {
+            "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/fbnc.720p.stream/chunklist.m3u8",
+            "imageURL": "http://i.imgur.com/cP7NV5h.png",
+            "name": "HTVC FBNC HD"
+            }
+                ],
+    
+    "Tổng hợp": [
+                 {
+                 "hlsURL": "http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b1200000.m3u8",
+                 "imageURL": "http://vuapp.tranvu.info/upload//avg_trutinh.png",
+                 "name": "Nhac Tru Tinh"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/tayninh.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://img.htvonline.com.vn/livetv/25072014/ttv_11__76601406270531.png",
+                 "name": "Tay Ninh"
+                 },
+                 {
+                 "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vinhlong1.360p.stream/chunklist.m3u8",
+                 "imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",
+                 "name": "Vinh Long 1"
+                 }
+                 ],
+
+
+    "Austria": [
+                {
+                "hlsURL": "http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/640px-ORFeins.svg.png",
+                "name": "ORF 1"
+                },
+                {
+                "hlsURL": "http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/640px-ORF2_logo_n.svg.png",
+                "name": "ORF 2"
+                },
+                {
+                "hlsURL": "http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/640px-ORF_III_Logo_Monochrom.svg.png",
+                "name": "ORF 3"
+                }
+                ],
+    "USA": [
+            {
+            "hlsURL": "http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/de/thumb/1/12/National_Football_League_2008.svg/456px-National_Football_League_2008.svg.png",
+            "name": "NFL"
+            },
+            {
+            "hlsURL": "http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/de/thumb/2/2b/CARTOON_NETWORK_logo2010.svg/640px-CARTOON_NETWORK_logo2010.svg.png",
+            "name": "Cartoon Network"
+            }
+            ]
 }
