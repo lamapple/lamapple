@@ -81,6 +81,58 @@
     "name": "Friesischer-Rundfunk"
     }
   ],
+  "Viet Nam": [
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/JW8VXef.png",
+      "name": "VTV1"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/spL8IHO.png",
+      "name": "VTV3"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/RwwN9B3.png",
+      "name": "VTV2"
+    },
+    {
+      "hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
+      "imageURL": "http://i.imgur.com/spL8IHO.png",
+      "name": "VTV3"
+    }
+  ],
   "Austria": [
     {
       "hlsURL": "http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8",
