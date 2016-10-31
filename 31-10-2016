@@ -1,0 +1,813 @@
+"Viet Nam": [
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/JW8VXef.png",
+		"name": "VTV1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/RwwN9B3.png",
+		"name": "VTV2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/spL8IHO.png",
+		"name": "VTV3"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/OwtIFz1.png",
+		"name": "VTV3 HD"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8",
+		"imageURL": "http://i.imgur.com/QwsdDjH.png",
+		"name": "VTV4"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8",
+		"imageURL": "http://i.imgur.com/bdKkIw2.png",
+		"name": "VTV5"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/keIENsc.png",
+		"name": "VTV6"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/kplGmyh.png",
+		"name": "VTV6 HD"
+	},	
+	{
+		"hlsURL": "rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream",
+		"imageURL": "https://s22.postimg.org/lsdyd3i8h/vtv8.jpg",
+		"name": "VTV8"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv9.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/qCWsfhc.png",
+		"name": "VTV9"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/nhandan.1080p.stream/chunklist.m3u8",
+		"imageURL": "https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png",
+		"name": "Nhan dan HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ttxvn.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
+		"name": "TTXVN"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vnews.smil/playlist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png",
+		"name": "VOV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/quochoi.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/4Uv9ddm.png",
+		"name": "Quoc hoi"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/qptv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png",
+		"name": "QPVN"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/antv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",
+		"name": "ANTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/giaitritv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/nmmH5NG.png",
+		"name": "GiaitriTV-VTVcab1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ddrama.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Kyv11bZ.png",
+		"name": "D-Dramas-VTVcab7"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc1.1080p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/HC5iUuK.png",
+		"name": "VTC1 HD"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/2MwvQXo.png",
+		"name": "VTC2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/CsXS6ve.png",
+		"name": "VTC3 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc4.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/fitz1bW.png",
+		"name": "VTC4"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/3QYpmSw.png",
+		"name": "VTC5"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/xXeBAok.png",
+		"name": "VTC6"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc7.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/ZfjtPa2.png",
+		"name": "VTC7 - TodayTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc8.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/uPxgmeN.png",
+		"name": "VTC8 - ViewTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc9.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/5SoblfV.png",
+		"name": "VTC9"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc10.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/5GpXF4g.png",
+		"name": "VTC10"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Vg5XFcf.png",
+		"name": "VTC11"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/aKmAf9Z.png",
+		"name": "VTC12"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8",
+		"imageURL": "http://i.imgur.com/ZIRi8xh.png",
+		"name": "VTC13"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc14.1080p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",
+		"name": "VTC14 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc16.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/aJyUj9n.png",
+		"name": "VTC16"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/XWtxYdm.png",
+		"name": "HTV1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv2.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/SwNJVBc.png",
+		"name": "HTV2 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv3.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/MMQITB4.png",
+		"name": "HTV3"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/gkeMaOh.png",
+		"name": "HTV4"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/m603PX8.png",
+		"name": "HTV7 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/DUhJcZK.png",
+		"name": "HTV9 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8",
+		"imageURL": "https://s17.postimg.org/ijgazsru7/HTVC_PHIM_HD.png",
+		"name": "HTVC phim HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/thuan_viet.720p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_145578232318.png",
+		"name": "HTVC Thuan Viet HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/du_lich.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_145578790177.png",
+		"name": "HTVC dulich"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/gia_dinh.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_14557859914.png",
+		"name": "HTVC giadinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/phu_nu.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_145672974528.jpg",
+		"name": "HTVC phunu"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_music.360p.stream/chunklist.m3u8",
+		"imageURL": "http://htvc.vn/uploads/editor/images/Logo Kenh/logoCanhac_422x278.png",
+		"name": "HTVC canhac"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/fbnc.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/cP7NV5h.png",
+		"name": "HTVC FBNC HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/shopping.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/28122013/htvcshopping_57871388200808.png",
+		"name": "HTVC shopping"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_plus.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-hd.png",
+		"name": "HTVC Plus (Channel B)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://i.imgur.com/j7NsBwD.png",
+		"name": "ANTG HD (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png",
+		"name": "NCM BTV10 (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/phimhay.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",
+		"name": "Phim hay"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/mientay.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png",
+		"name": "Mien Tay"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/vietten_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png",
+		"name": "VIETTEEN (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png",
+		"name": "SAM BTV11 TV (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "https://s22.postimg.org/xq0en0n6p/anvienhd.jpg",
+		"name": "ANVIEN HD (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv3/nhaccodien_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://vuapp.tranvu.info/upload//avg_codien.png",
+		"name": "Nhac Co Dien (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/youtv.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/7uqtQEM.png",
+		"name": "YouTV Hanoicab2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/laocai.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg",
+		"name": "Lao Cai"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/namdinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/bFzFKSL.png",
+		"name": "Nam Dinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/langson.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/FRl2dMz.png",
+		"name": "Lang Son"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/bacgiang.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_145880839804.jpg",
+		"name": "Bac Giang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vinhphuc.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",
+		"name": "Vinh Phuc"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/haiduong.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/B9gdrjs.png",
+		"name": "Hai duong"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ninhbinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png",
+		"name": "Ninh Binh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/hue.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",
+		"name": "Hue"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/quangnam.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/21012014/quang-nam_58201390299076.png",
+		"name": "Quang Nam"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/binhdinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",
+		"name": "Binh Dinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/khanhhoa.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",
+		"name": "Khanh hoa"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/dacnong.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/06012014/ptd_89911389004281.png",
+		"name": "Ðac Nong"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/binhphuoc.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",
+		"name": "Binh phuoc 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/longan.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Z5408CY.png",
+		"name": "Long an"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/tayninh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/25072014/ttv_11__76601406270531.png",
+		"name": "Tay Ninh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vinhlong1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",
+		"name": "Vinh Long 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/soctrang.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/21012014/std-logo_90471390298988.png",
+		"name": "Soc trang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/dongthap.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg",
+		"name": "Dong thap 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/angiang.480.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",
+		"name": "An Giang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/YAGwIeW.png",
+		"name": "Ca mau"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",
+		"name": "Starmovies HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/natgeo.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/9RsSxQt.png",
+		"name": "Natgeo HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/starworld.720p.stream/chunklist.m3u8",
+		"imageURL": "http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",
+		"name": "Starworld HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/mtv.360p.stream/chunklist.m3u8",
+		"imageURL": "http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",
+		"name": "MTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/JW8VXef.png",
+		"name": "VTV1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/RwwN9B3.png",
+		"name": "VTV2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/spL8IHO.png",
+		"name": "VTV3"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv3.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/OwtIFz1.png",
+		"name": "VTV3 HD"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8",
+		"imageURL": "http://i.imgur.com/QwsdDjH.png",
+		"name": "VTV4"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8",
+		"imageURL": "http://i.imgur.com/bdKkIw2.png",
+		"name": "VTV5"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/keIENsc.png",
+		"name": "VTV6"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv6.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/kplGmyh.png",
+		"name": "VTV6 HD"
+	},	
+	{
+		"hlsURL": "rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream",
+		"imageURL": "https://s22.postimg.org/lsdyd3i8h/vtv8.jpg",
+		"name": "VTV8"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtv9.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/qCWsfhc.png",
+		"name": "VTV9"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/nhandan.1080p.stream/chunklist.m3u8",
+		"imageURL": "https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png",
+		"name": "Nhan dan HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ttxvn.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png",
+		"name": "TTXVN"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vnews.smil/playlist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png",
+		"name": "VOV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/quochoi.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/4Uv9ddm.png",
+		"name": "Quoc hoi"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/qptv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png",
+		"name": "QPVN"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/antv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",
+		"name": "ANTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/giaitritv.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/nmmH5NG.png",
+		"name": "GiaitriTV-VTVcab1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ddrama.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Kyv11bZ.png",
+		"name": "D-Dramas-VTVcab7"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc1.1080p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/HC5iUuK.png",
+		"name": "VTC1 HD"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/2MwvQXo.png",
+		"name": "VTC2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc3.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/CsXS6ve.png",
+		"name": "VTC3 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc4.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/fitz1bW.png",
+		"name": "VTC4"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/3QYpmSw.png",
+		"name": "VTC5"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/xXeBAok.png",
+		"name": "VTC6"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc7.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/ZfjtPa2.png",
+		"name": "VTC7 - TodayTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc8.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/uPxgmeN.png",
+		"name": "VTC8 - ViewTV"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc9.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/5SoblfV.png",
+		"name": "VTC9"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc10.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/5GpXF4g.png",
+		"name": "VTC10"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Vg5XFcf.png",
+		"name": "VTC11"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8",
+		"imageURL": "http://i.imgur.com/aKmAf9Z.png",
+		"name": "VTC12"
+	},	
+	{
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8",
+		"imageURL": "http://i.imgur.com/ZIRi8xh.png",
+		"name": "VTC13"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc14.1080p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",
+		"name": "VTC14 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vtc16.480p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/aJyUj9n.png",
+		"name": "VTC16"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/XWtxYdm.png",
+		"name": "HTV1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv2.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/SwNJVBc.png",
+		"name": "HTV2 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv3.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/MMQITB4.png",
+		"name": "HTV3"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv4.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/gkeMaOh.png",
+		"name": "HTV4"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv7.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/m603PX8.png",
+		"name": "HTV7 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htv9.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/DUhJcZK.png",
+		"name": "HTV9 HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_movies.720p.stream/chunklist.m3u8",
+		"imageURL": "https://s17.postimg.org/ijgazsru7/HTVC_PHIM_HD.png",
+		"name": "HTVC phim HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/thuan_viet.720p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_145578232318.png",
+		"name": "HTVC Thuan Viet HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/du_lich.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_145578790177.png",
+		"name": "HTVC dulich"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/gia_dinh.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_14557859914.png",
+		"name": "HTVC giadinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/phu_nu.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_145672974528.jpg",
+		"name": "HTVC phunu"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_music.360p.stream/chunklist.m3u8",
+		"imageURL": "http://htvc.vn/uploads/editor/images/Logo Kenh/logoCanhac_422x278.png",
+		"name": "HTVC canhac"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/fbnc.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/cP7NV5h.png",
+		"name": "HTVC FBNC HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/shopping.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/28122013/htvcshopping_57871388200808.png",
+		"name": "HTVC shopping"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/htvc_plus.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-hd.png",
+		"name": "HTVC Plus (Channel B)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://i.imgur.com/j7NsBwD.png",
+		"name": "ANTG HD (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png",
+		"name": "NCM BTV10 (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/phimhay.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",
+		"name": "Phim hay"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/mientay.480p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png",
+		"name": "Mien Tay"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/vietten_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png",
+		"name": "VIETTEEN (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png",
+		"name": "SAM BTV11 TV (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "https://s22.postimg.org/xq0en0n6p/anvienhd.jpg",
+		"name": "ANVIEN HD (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://live.cdn.mobifonetv.vn/motv3/nhaccodien_hls.smil/chunklist_b1200000.m3u8",
+		"imageURL": "http://vuapp.tranvu.info/upload//avg_codien.png",
+		"name": "Nhac Co Dien (xem trên box tv)"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/youtv.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/7uqtQEM.png",
+		"name": "YouTV Hanoicab2"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/laocai.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg",
+		"name": "Lao Cai"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/namdinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/bFzFKSL.png",
+		"name": "Nam Dinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/langson.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/FRl2dMz.png",
+		"name": "Lang Son"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/bacgiang.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_145880839804.jpg",
+		"name": "Bac Giang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vinhphuc.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",
+		"name": "Vinh Phuc"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/haiduong.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/B9gdrjs.png",
+		"name": "Hai duong"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/ninhbinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png",
+		"name": "Ninh Binh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/hue.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",
+		"name": "Hue"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/quangnam.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/21012014/quang-nam_58201390299076.png",
+		"name": "Quang Nam"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/binhdinh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",
+		"name": "Binh Dinh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/khanhhoa.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",
+		"name": "Khanh hoa"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/dacnong.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/06012014/ptd_89911389004281.png",
+		"name": "Ðac Nong"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/binhphuoc.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",
+		"name": "Binh phuoc 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/longan.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/Z5408CY.png",
+		"name": "Long an"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/tayninh.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/25072014/ttv_11__76601406270531.png",
+		"name": "Tay Ninh"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/vinhlong1.360p.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",
+		"name": "Vinh Long 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/soctrang.360p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/21012014/std-logo_90471390298988.png",
+		"name": "Soc trang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/dongthap.360p.stream/chunklist.m3u8",
+		"imageURL": "https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg",
+		"name": "Dong thap 1"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/angiang.480.stream/chunklist.m3u8",
+		"imageURL": "http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",
+		"name": "An Giang"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/YAGwIeW.png",
+		"name": "Ca mau"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/starmovies.720p.stream/chunklist.m3u8",
+		"imageURL": "http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png",
+		"name": "Starmovies HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/natgeo.720p.stream/chunklist.m3u8",
+		"imageURL": "http://i.imgur.com/9RsSxQt.png",
+		"name": "Natgeo HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/starworld.720p.stream/chunklist.m3u8",
+		"imageURL": "http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png",
+		"name": "Starworld HD"
+	},	
+	{
+		"hlsURL": "http://210.245.18.144:8081/spsklfl/_definst_/mtv.360p.stream/chunklist.m3u8",
+		"imageURL": "http://fe.tvod.vn//sites/default/files/styles/pc2_channel_thumb/public/mtv.jpg",
+		"name": "MTV"
+	},	
+
+]
